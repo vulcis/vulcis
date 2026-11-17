@@ -29,6 +29,12 @@ A **Vulcis** reúne iniciativas de desenvolvimento de software, produtos digitai
 - **Qualidade prática:** automação, testes e rastreabilidade compatíveis com o risco.
 - **Evolução sustentável:** preservar conhecimento, permitir mudanças e evitar dependências desnecessárias.
 
+## Canais oficiais
+
+- [Site Vulcis](https://vulcis.com) — apresentação e catálogo público.
+- [Documentação](https://docs.vulcis.com) — documentação publicada dos produtos e experiências.
+- [Organização GitHub](https://github.com/vulcis) — projetos públicos e pontos de colaboração.
+
 ## Nossa presença no GitHub
 
 Este é o repositório público de apresentação da organização. Parte do desenvolvimento ocorre em **repositórios privados** e não representa uma oferta pública de código, documentação interna ou produtos já lançados.
